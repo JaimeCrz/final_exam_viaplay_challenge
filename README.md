@@ -48,4 +48,4 @@ Displaying the shows in a row with the right formatting is a bit challenging. To
 
 Good luck and Happy Coding. 
 
-by jaime.
+by Jaime C.
